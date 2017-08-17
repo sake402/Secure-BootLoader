@@ -1,5 +1,4 @@
-src/main.o: \
- E:/Library/S@/CPP/Infrastructures/SecureBoot/Loader/src/main.c \
+src/main.o: ../src/main.c \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/usart.h \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/loader.h \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/crc.h \

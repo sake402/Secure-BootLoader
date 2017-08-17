@@ -1,5 +1,4 @@
-src/sdFile.o: \
- E:/Library/S@/CPP/Infrastructures/SecureBoot/Loader/src/sdFile.c \
+src/sdFile.o: ../src/sdFile.c \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/diskio.h \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/integer.h \
  E:\Library\S@\CPP\Infrastructures\SecureBoot\Loader\Include/pff.h \

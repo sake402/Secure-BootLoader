@@ -25,18 +25,6 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 		<nature>de.innot.avreclipse.core.avrnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Include</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Include</locationURI>
-		</link>
-		<link>
-			<name>src</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/src</locationURI>
-		</link>
-	</linkedResources>
 	<variableList>
 		<variable>
 			<name>copy_PARENT</name>
